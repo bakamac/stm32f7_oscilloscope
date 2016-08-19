@@ -1,0 +1,5 @@
+*.mxproject
+/Inc/Fonts/*
+/Inc/RGB565_480x272.h
+/SW4STM32/f7_oscyloskop/*
+!Application
